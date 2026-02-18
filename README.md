@@ -86,7 +86,7 @@ I enjoy working on both frontend and backend, turning ideas into real-world appl
 ---
 
 <p align="center">
-  <img src="assets/laptop.gif" width="380" />
+  <img src="assets/Icon Animation _ Infographic _ Motion graphics.gif" width="380" />
 </p>
 
 <p align="center">
